@@ -1,0 +1,7 @@
+.mfe {
+  border: 5px #59ff00 dashed;
+  position: relative;
+  text-align: center;
+  min-height: 90vh;
+  font-family: Arial, sans-serif;
+}
