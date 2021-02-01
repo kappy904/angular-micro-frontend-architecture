@@ -130,11 +130,11 @@ One final tip before we spin this up. Edit you package file
 
 `"start": "ng serve shell -o --port 9999",  `
   
-Makes things a li’ easier :)
+Makes things a li’l easier :)
 
 ### The Urls    
 [http://localhost:9999/mfe/child  
-](http://localhost:9999/mfe/child)Shoutd show you MFE on your HOST!  
+](http://localhost:9999/mfe/child)Should show you MFE in your HOST!  
   
 Still not sure? Let’s break it down  
 [http://localhost:9999](http://localhost:9999/mfe/child) is your host  
