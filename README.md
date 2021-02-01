@@ -1,4 +1,7 @@
-# Angular 11 Micro Front-Ends with Webpack 5 Module Federation
+<p align="center"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="60px" height="100px"/>
+<img src="https://raw.githubusercontent.com/webpack/media/master/logo/logo-on-white-bg.png"  height="100px"/>
+</p>
+<h1 align="center">Angular 11 Micro Front-Ends with Webpack 5 Module Federation</h3>
 
 Currently support for MFEs are low. For the past 3 years I have been following this topic mostly fueled by Manfred Steyers' tech talks and articles. Various POCs have been built using Js modules, SingleSpa, Nx etc... but the greatest breakthrough was as a result of Zack Jackson and the Webpack 5 team who gave us [Module Federation](https://webpack.js.org/concepts/module-federation/) - hence this "giant leap" towards our MFE goals! However, still today, it is not fully supported in the latest Angular version (11). Angular cli is built on top of Webpack so we'll have to explicitly opt-in for this feature as of Jan 2021. Please bear this in mind going forward as you will have warnings in your build but I will elaborate on them during the steps. Most of my learnings came from [this course](https://www.pluralsight.com/courses/micro-frontends-architecture), [this series](https://www.angulararchitects.io/aktuelles/the-microfrontend-revolution-part-2-module-federation-with-angular/) and [these repos](https://github.com/module-federation/module-federation-examples).
 
